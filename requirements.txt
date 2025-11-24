@@ -1,0 +1,10 @@
+python
+numpy
+pandas
+geopandas 
+scipy
+scikit-learn # 
+py-xgboost
+ipykernel
+notebook
+matplotlib
