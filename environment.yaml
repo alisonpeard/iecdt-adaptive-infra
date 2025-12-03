@@ -1,4 +1,4 @@
-name: iecdt
+name: adaptive-infra-env
 channels:
     - defaults
     - conda-forge
@@ -7,12 +7,10 @@ dependencies:
     - pip
     - numpy
     - pandas
-    - geopandas # ==0.14.4
-    # - fiona==1.10.0 # https://stackoverflow.com/questions/78949093/how-to-resolve-attributeerror-module-fiona-has-no-attribute-path
+    - geopandas
     - scipy
-    - scikit-learn # https://stackoverflow.com/questions/68620927/installing-scipy-and-scikit-learn-on-apple-m1
-    - py-xgboost
-    # - shap         # use pip on M1 macs "python -m pip install shap"
+    - scikit-learn
+    - xgboost
     - ipykernel
     - notebook
     - matplotlib
