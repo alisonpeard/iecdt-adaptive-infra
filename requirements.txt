@@ -1,0 +1,9 @@
+numpy
+pandas
+geopandas 
+scipy
+scikit-learn
+xgboost
+ipykernel
+notebook
+matplotlib
