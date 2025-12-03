@@ -6,7 +6,9 @@
    ```bash
    git clone git@github.com:alisonpeard/iecdt-adaptive-infra.git
    ```
-1. Download data from [here](https://drive.google.com/drive/folders/1pU8Y6sm2FxZVFJTiemxBPr_-c33OhaGy)
+1. Get the tutorial data by:
+   * Downloading it from [here](https://drive.google.com/drive/folders/1pU8Y6sm2FxZVFJTiemxBPr_-c33OhaGy)
+   * Copying it from `/gws/nopw/j04/iecdt/data`
 1. Make the environment (adapted from [here](https://help.jasmin.ac.uk/docs/interactive-computing/creating-a-virtual-environment-in-the-notebooks-service/))
 
    To get started, open the [JASMIN notebooks service](https://notebooks.jasmin.ac.uk/) and in the launcher click the "Terminal" button. A bash shell will appear.
